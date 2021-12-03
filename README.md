@@ -21,4 +21,7 @@ This mostly consists of code for jobs submitted to the slurm system on the Melbo
 
 ### [R](https://github.com/patrickcrock/folio/tree/main/r)
 This directory contains markdown files featuring code used mostly for the construction of figures for my thesis:
-*
+* [Piechart-map figures](https://github.com/patrickcrock/folio/blob/main/r/piemap.html)
+* [Phylogenies](https://github.com/patrickcrock/folio/blob/main/r/trees.html)
+* More specific, in-depth [NT phylogenies](https://github.com/patrickcrock/folio/blob/main/r/NT_trees.html)
+* [Bayesian analysis figures](https://github.com/patrickcrock/folio/blob/main/r/emergence.html)
